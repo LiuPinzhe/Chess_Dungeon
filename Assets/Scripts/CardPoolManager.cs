@@ -21,7 +21,8 @@ public static class CardPoolManager
             new BishopCard(),
             new SwordCard(),
             new RitualDagger(),
-            new FlameSword()
+            new FlameSword(),
+            new Tidewyrm_oil_candle()
         };
 
         // Uncommon 卡池
@@ -39,7 +40,9 @@ public static class CardPoolManager
             new TwoBladeCard(),
             new FloatSword(),
             new Book(),
-            new Fan()
+            new Fan(),
+            new Oil(),
+            new Flameberge()
         };
 
         // Epic 卡池

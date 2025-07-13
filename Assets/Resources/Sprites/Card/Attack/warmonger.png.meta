@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      warmonger_0: -5092549646167221622
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

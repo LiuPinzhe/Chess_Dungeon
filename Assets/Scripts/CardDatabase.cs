@@ -59,6 +59,10 @@ public class CardDatabase : MonoBehaviour
         AddCard(new FlameSword());
         AddCard(new FlameBow());
         AddCard(new RitualDagger());
+        AddCard(new Oil());
+        AddCard(new Tidewyrm_oil_candle());
+        AddCard(new Flameberge());
+        AddCard(new WingSword());
     }
 
     private void AddCard(Card card)
